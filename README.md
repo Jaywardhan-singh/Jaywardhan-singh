@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jaywardhan Pratap Singh</h1>
 <h3 align="center">A Passionate B.Tech Computer Science & Engineering student with an interest in Coding, Problem solving and Analytical thinking. Learning about Web Development, Machine Learning, Open Source Contributions and New Technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaywardhan-singh&label=Profile%20views&color=0e75b6&style=flat" alt="jaywardhan-singh" /> </p>
-
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📫 How to reach me **jaywardhansingh.111@gmail.com**
