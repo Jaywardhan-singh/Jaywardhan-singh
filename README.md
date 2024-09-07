@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jaywardhan Pratap Singh</h1>
 <h3 align="center">A Passionate B.Tech Computer Science & Engineering student with an interest in Coding, Problem solving and Analytical thinking. Learning about Web Development, Machine Learning, Open Source Contributions and New Technologies.</h3>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **LLMs & API Calls**
 
-- 📫 How to reach me **jaywardhansingh.111@gmail.com**
-
-- ⚡ Fun fact **I'm Funny too 🙃**
+- 📫 How to reach me **jays2002singh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
